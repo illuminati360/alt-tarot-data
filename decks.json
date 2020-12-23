@@ -1302,5 +1302,317 @@
   {
     "name": "wormweird",
     "description": "wormweird\n"
+  },
+  {
+    "name": "1jj-swiss",
+    "description": "1jj-swiss\n"
+  },
+  {
+    "name": "8-bit",
+    "description": "8-bit\n"
+  },
+  {
+    "name": "african",
+    "description": "african\n"
+  },
+  {
+    "name": "art-nv",
+    "description": "art-nv\n"
+  },
+  {
+    "name": "art-of-life",
+    "description": "art-of-life\n"
+  },
+  {
+    "name": "cagliostro",
+    "description": "cagliostro\n"
+  },
+  {
+    "name": "cary-yale-visconti",
+    "description": "cary-yale-visconti\n"
+  },
+  {
+    "name": "cat-people",
+    "description": "cat-people\n"
+  },
+  {
+    "name": "cats-eye",
+    "description": "cats-eye\n"
+  },
+  {
+    "name": "chinese",
+    "description": "chinese\n"
+  },
+  {
+    "name": "classic",
+    "description": "classic\n"
+  },
+  {
+    "name": "crowley",
+    "description": "crowley\n"
+  },
+  {
+    "name": "crows-magick",
+    "description": "crows-magick\n"
+  },
+  {
+    "name": "crystal-visions",
+    "description": "crystal-visions\n"
+  },
+  {
+    "name": "dali",
+    "description": "dali\n"
+  },
+  {
+    "name": "dark-exact",
+    "description": "dark-exact\n"
+  },
+  {
+    "name": "deviant-moon",
+    "description": "deviant-moon\n"
+  },
+  {
+    "name": "dreaming-way",
+    "description": "dreaming-way\n"
+  },
+  {
+    "name": "english-magic",
+    "description": "english-magic\n"
+  },
+  {
+    "name": "epicurean",
+    "description": "epicurean\n"
+  },
+  {
+    "name": "esoterico",
+    "description": "esoterico\n"
+  },
+  {
+    "name": "etteilla",
+    "description": "etteilla\n"
+  },
+  {
+    "name": "faerie-tarot",
+    "description": "faerie-tarot\n"
+  },
+  {
+    "name": "fantastical-creatures",
+    "description": "fantastical-creatures\n"
+  },
+  {
+    "name": "feng-shui",
+    "description": "feng-shui\n"
+  },
+  {
+    "name": "forest-folklore",
+    "description": "forest-folklore\n"
+  },
+  {
+    "name": "gendron",
+    "description": "gendron\n"
+  },
+  {
+    "name": "ghosts-spirits",
+    "description": "ghosts-spirits\n"
+  },
+  {
+    "name": "golden-thread",
+    "description": "golden-thread\n"
+  },
+  {
+    "name": "gummybear",
+    "description": "gummybear\n"
+  },
+  {
+    "name": "jolanda",
+    "description": "jolanda\n"
+  },
+  {
+    "name": "karma",
+    "description": "karma\n"
+  },
+  {
+    "name": "lovers-path",
+    "description": "lovers-path\n"
+  },
+  {
+    "name": "magic-manga",
+    "description": "magic-manga\n"
+  },
+  {
+    "name": "marseilles",
+    "description": "marseilles\n"
+  },
+  {
+    "name": "medicine-woman",
+    "description": "medicine-woman\n"
+  },
+  {
+    "name": "medieval-cat",
+    "description": "medieval-cat\n"
+  },
+  {
+    "name": "medieval-scapini",
+    "description": "medieval-scapini\n"
+  },
+  {
+    "name": "melanated",
+    "description": "melanated\n"
+  },
+  {
+    "name": "merryday",
+    "description": "merryday\n"
+  },
+  {
+    "name": "modern-medieval",
+    "description": "modern-medieval\n"
+  },
+  {
+    "name": "motherpeace",
+    "description": "motherpeace\n"
+  },
+  {
+    "name": "mystic-mondays",
+    "description": "mystic-mondays\n"
+  },
+  {
+    "name": "napo",
+    "description": "napo\n"
+  },
+  {
+    "name": "new-century",
+    "description": "new-century\n"
+  },
+  {
+    "name": "new-palladini-tarot",
+    "description": "new-palladini-tarot\n"
+  },
+  {
+    "name": "old-english",
+    "description": "old-english\n"
+  },
+  {
+    "name": "old-path",
+    "description": "old-path\n"
+  },
+  {
+    "name": "omegaland",
+    "description": "omegaland\n"
+  },
+  {
+    "name": "one-world",
+    "description": "one-world\n"
+  },
+  {
+    "name": "phantasmagoric",
+    "description": "phantasmagoric\n"
+  },
+  {
+    "name": "quick-easy",
+    "description": "quick-easy\n"
+  },
+  {
+    "name": "renaissance",
+    "description": "renaissance\n"
+  },
+  {
+    "name": "rider",
+    "description": "rider\n"
+  },
+  {
+    "name": "roberts",
+    "description": "roberts\n"
+  },
+  {
+    "name": "royal-thai",
+    "description": "royal-thai\n"
+  },
+  {
+    "name": "russian",
+    "description": "russian\n"
+  },
+  {
+    "name": "sacred-art",
+    "description": "sacred-art\n"
+  },
+  {
+    "name": "sacred-rose",
+    "description": "sacred-rose\n"
+  },
+  {
+    "name": "santa-fe",
+    "description": "santa-fe\n"
+  },
+  {
+    "name": "smith-waite",
+    "description": "smith-waite\n"
+  },
+  {
+    "name": "stairs",
+    "description": "stairs\n"
+  },
+  {
+    "name": "stars",
+    "description": "stars\n"
+  },
+  {
+    "name": "starter",
+    "description": "starter\n"
+  },
+  {
+    "name": "sun-moon",
+    "description": "sun-moon\n"
+  },
+  {
+    "name": "tapestry",
+    "description": "tapestry\n"
+  },
+  {
+    "name": "tarot-moon-garden",
+    "description": "tarot-moon-garden\n"
+  },
+  {
+    "name": "tarot-of-dreams",
+    "description": "tarot-of-dreams\n"
+  },
+  {
+    "name": "tarot-spirit",
+    "description": "tarot-spirit\n"
+  },
+  {
+    "name": "universal-waite",
+    "description": "universal-waite\n"
+  },
+  {
+    "name": "vampire",
+    "description": "vampire\n"
+  },
+  {
+    "name": "vanessa",
+    "description": "vanessa\n"
+  },
+  {
+    "name": "visconti",
+    "description": "visconti\n"
+  },
+  {
+    "name": "whimsical",
+    "description": "whimsical\n"
+  },
+  {
+    "name": "winged-spirit",
+    "description": "winged-spirit\n"
+  },
+  {
+    "name": "wirth",
+    "description": "wirth\n"
+  },
+  {
+    "name": "witches",
+    "description": "witches\n"
+  },
+  {
+    "name": "zerner-farber",
+    "description": "zerner-farber\n"
   }
 ]
